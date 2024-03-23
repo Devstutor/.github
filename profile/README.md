@@ -8,7 +8,7 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 ## Become a Self-taught
 
-In 2024, Rahul started an open source community called devstutor. This community has grown to include fifty's of developers. Together, we have built:
+In 2024, Rahul started an open source community called devstutor. This community have only two members. Together, we have built:
 
 💻 A free programming curriculum.
 
