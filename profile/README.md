@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Feel free to contribute so that anyone can afford it🫶
 
 *Devstutor* is a friendly community where you can learn to technology for free. 
 
