@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Feel free to contribute so that anyone can afford it🫶
-
 *Devstutor* is a friendly community where you can learn to technology for free. 
 
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+
+To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Feel free to contribute so that anyone can afford it🫶
+
 
 
 ## Become a Self-taught
