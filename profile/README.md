@@ -10,13 +10,13 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 In 2024, Rahul started an open source community called devstutor. This community have only two members. Together, we have built:
 
-💻 A free programming curriculum.
+💯 A free programming curriculum.
 
-🏛️ Forums and chat rooms where you can get coding help and feedback on your projects (Working on it).
+💬 Forums and chat rooms where you can get coding help and feedback on your projects (Working on it).
 
-🧪 Everything is for free.
+ 🆓Everything is for free.
 
-🎒 5+ freecourses on Java, Spring, Spring-boot, Hibernate, Computer Science, Ethical Hacking, Artificial Intelligence.
+ 🧑‍💻5+ freecourses on Java, Spring, Spring-boot, Hibernate, Computer Science, Ethical Hacking, Artificial Intelligence (Working on it).
 
 
 
