@@ -8,15 +8,15 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 ## Become a Self-taught
 
-In 2024, a person started an open source community called devstutor. This community has grown to include hundreds of developers from around the world. Together, we have built:
+In 2024, Rahul started an open source community called devstutor. This community has grown to include fifty's of developers. Together, we have built:
 
 💻 A free programming curriculum.
 
-🏛️ Forums and chat rooms where you can get coding help and feedback on your projects.
+🏛️ Forums and chat rooms where you can get coding help and feedback on your projects (Working on it).
 
 🧪 Everything is for free.
 
-🎒 100+ freecourses on Computer Science, Ethical Hacking, Artificial Intelligence.
+🎒 5+ freecourses on Java, Spring, Spring-boot, Hibernate, Computer Science, Ethical Hacking, Artificial Intelligence.
 
 
 
