@@ -10,7 +10,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Become a Self-taught
 
-In 2024, Rahul started an open source community called devstutor. This community have only two members. Together, we have built:
+Rahul started an open source community called devstutor. This community have only two members. Together, we have built:
 
 💯 A free programming curriculum.
 
