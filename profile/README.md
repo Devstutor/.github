@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div align="center">
+ <a href="https://github.com/Devstutor/.github/blob/b2a6c2194a0e3b117295eeff1219af6b1b7a2f78/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-brightgreen" alt="License Badge"/></a>
+  <a href="https://github.com/Devstutor/spring-for-interview"><img src="https://img.shields.io/badge/Open_Issues-1-yellow" alt="Issues Badge"/></a>
+ <a href="https://github.com/Devstutor"><img src="https://img.shields.io/badge/Contributors-2-yellow" alt="Contributors Badge"/></a>
+<!--  <a href="https://github.com/Devstutor/.github/blob/b2a6c2194a0e3b117295eeff1219af6b1b7a2f78/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-brightgreen" alt="Stars Badge"/></a> -->
+</div>
+<br>
 *Devstutor* is a friendly community where you can learn to technology for free. 
 
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
