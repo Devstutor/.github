@@ -7,6 +7,7 @@
 <!--  <a href="https://github.com/Devstutor/.github/blob/b2a6c2194a0e3b117295eeff1219af6b1b7a2f78/LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-brightgreen" alt="Stars Badge"/></a> -->
 </div>
 <br>
+
 *Devstutor* is a friendly community where you can learn to technology for free. 
 
 Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
