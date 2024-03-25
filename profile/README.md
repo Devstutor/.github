@@ -6,7 +6,9 @@ Our full-stack web development and machine learning curriculum is completely fre
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines. Feel free to contribute so that anyone can afford it🫶
 
+## Why Should You Choose Us
 
+Devstutor is the Only Future-Proof Platform where you will learn everything you can imagine of.
 
 ## Become a Self-taught
 
