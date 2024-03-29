@@ -26,11 +26,11 @@ Rahul started an open source community called devstutor. This community have onl
 
 💯 A free programming curriculum.
 
-💬 Forums and chat rooms where you can get coding help and feedback on your projects (Working on it).
+💬 Forums and chat rooms where you can get coding help and feedback on your projects ([Working on it](https://join.slack.com/t/devstutor/shared_invite/zt-2f8zi1p07-hgbmBa3zZfMeET5SDdHq4Q)).
 
  🆓Everything is for free.
 
- 🧑‍💻5+ freecourses on Java, Spring, Spring-boot, Hibernate, Computer Science, Ethical Hacking, Artificial Intelligence (Working on it).
+ 🧑‍💻5+ freecourses on Java, Spring, Spring-boot, Hibernate, Computer Science, Ethical Hacking, Artificial Intelligence ([Working on it](https://github.com/Devstutor/interview-preparation)).
 
 
 
